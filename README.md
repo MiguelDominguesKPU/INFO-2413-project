@@ -6,7 +6,7 @@ Implemented skills:
   - how to wrap and unwrap data for transport across a network
   - multi-threaded programming and synchronization
   - heavy OOP programming practicing dynamic binding, encapsulation, and interfaces
-  - implemented using an MVC design pattern, with clients and server-threads having one of multiple States
+  - implemented using an MVC design pattern, with clients and server-threads acting as the Controller and having one of multiple States
 
 User starts the client, enters the correct server IP address, and connects to the server with a unique user name
 
